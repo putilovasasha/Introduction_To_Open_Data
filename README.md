@@ -21,9 +21,20 @@
 
 ## Установка и запуск 
 1. Клонируйте репозиторий
+   
 ``` git clone https://github.com/putilovasasha/Introduction_To_Open_Data.git```
+
 2. Установите зависимости
+   
 ```pip install pandas numpy matplotlib```
+
 3. Запустите ячейки файла **NASA_API_project.ipynb**
+
+## Важное
+Проект выполнен в рамках обучения и анализа открытытых данных.  
+
+По вопросам и предложениям можно писать сюда : apputilova@edu.hse.ru  
+
+Буду рада вашей обратной связи!
 
 
